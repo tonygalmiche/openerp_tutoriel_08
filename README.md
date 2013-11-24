@@ -1,4 +1,4 @@
-InfoSaône / OpenERP Tutoriel 07 - Création d'un objet (modèle)
+InfoSaône / OpenERP Tutoriel 08 - Création d'un objet avec les différents types de champs
 ===================
 
 Le but de ce module est de montrer les différents types de champs disponible pour créer de nouveaux objets (modèle).
